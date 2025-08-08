@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co.com/4nrrB2Sz/github-header-banner.png)
 
 # 👋 Hi, I'm **Shakil Ahamed**
-### 🚀 MERN Stack Developer | Web Enthusiast | Lifelong Learner
+### 🚀 Frontend Developer | Web Developer | Full Stack Developer
 
 ---
 
@@ -16,9 +16,9 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 
 ---
 
-## 🧭 Currently Working On
+## 🧭 Current Activities
 - ⚡ Learning advanced Next.js and performance optimization
-- 📈 Enhancing my system design and backend architecture knowledge
+- 🛫 I’m working on a tourism website.
 
 ---
 
@@ -48,9 +48,9 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shakil-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakilahamed07)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801601208776)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakil-ahmed-745566379/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shakilahamed07)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801772551376)
 
 ---
 
