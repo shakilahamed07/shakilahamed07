@@ -3,13 +3,13 @@
 # 👨‍💻 Shakil Ahamed — MERN Stack Developer
 
 ## 🧑‍💼 About Me
-Hi! I'm Shakil Ahamed, a passionate MERN Stack Developer with hands-on experience in building full-stack web applications. I love turning ideas into reality using clean and scalable code. I'm a lifelong learner, always exploring new technologies to sharpen my skills.
+Hi! I'm Shakil Ahamed, a passionate MERN Stack Developer with hands-on experience in building full-stack web applications. I love to turn ideas into reality using clean and scalable code. I'm a lifelong learner, always exploring new technologies to improve my skills.
 
 ## 🚀 Current Activities
-- 🌐 Exploring Next.js and advanced React features
-- 🏗️ Building a tourism website
-- 📘 Learning system design and architecture
-- 🧑‍🏫 Guiding junior developers in their learning journey
+- 🌐 Exploring Next.js and advanced React features.
+- 🏗️ Building a tourism website project.
+- 📘 Learning system design and architecture.
+- 🧑‍🏫 Helping juniors in learning web development.
 
 ## 🛠️ Skills
 ### 💻 Frontend
@@ -37,8 +37,7 @@ Hi! I'm Shakil Ahamed, a passionate MERN Stack Developer with hands-on experienc
 ## 📈 GitHub Stats
 ![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakilahamed07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahamed07&layout=compact&theme=radical)
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakilahamed07&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shakilahamed07&theme=radical)
 
 ---
 ⭐️ From [Shakil Ahamed](https://github.com/shakilahamed07)
