@@ -37,7 +37,8 @@ Hi! I'm Shakil Ahamed, a passionate MERN Stack Developer with hands-on experienc
 ## 📈 GitHub Stats
 ![Shakil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakilahamed07&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilahamed07&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=shakilahamed07&theme=radical)
+## 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shakilahamed07&theme=radical)
 
 ---
 ⭐️ From [Shakil Ahamed](https://github.com/shakilahamed07)
