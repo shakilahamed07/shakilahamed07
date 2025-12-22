@@ -12,7 +12,7 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 - 🎯 Career Goal: To become a skilled software engineer and contribute to impactful projects
 
 📞 **WhatsApp:** [+880 177255-1376](https://wa.me/8801772551376)  
-📧 **Email:** shakil.ahamed.dev1@gmail.com
+📧 **Email:** shakilahmed.codes@gmail.com
 
 ---
 
