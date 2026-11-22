@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co.com/4nrrB2Sz/github-header-banner.png)
 
 # 👋 Hi, I'm **Shakil Ahamed**
-### 🚀 Frontend Developer | Web Developer | Full Stack Developer
+### 🚀 Full Stack Developer | Web Developer | Backend Developer
 
 ---
 
@@ -17,7 +17,7 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 ---
 
 ## 🧭 Current Activities
-- ⚡ Learning advanced Next.js and performance optimization
+- ⚡ Learning advanced AWS EC2, Socket.io and performance optimization
 - 🛫 I’m working on a tourism website.
 
 ---
@@ -29,6 +29,7 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
@@ -36,9 +37,12 @@ I'm a passionate Full Stack Web Developer with strong skills in the MERN stack. 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### 🔨 Tools & Others
+### 🔨 Tools & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
